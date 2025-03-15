@@ -2,7 +2,7 @@
 
 ---
 [![Go Report Card](https://goreportcard.com/badge/github.com/livepeer/go-livepeer)](https://goreportcard.com/report/github.com/livepeer/go-livepeer)
-[![Discord](https://img.shields.io/discord/423160867534929930.svg?style=flat-square)](https://discord.gg/7wRSUGX)
+[![Discord](https://img.shields.io/discord/423160867534929930.svg?style=flat-square)](https://discord.gg/livepeer)
 
 The Livepeer project aims to deliver a live video-streaming network
 protocol that is fully decentralized, highly scalable and crypto-token
@@ -20,5 +20,5 @@ at these other resources:
 - 📖 [The Livepeer Docs](https://livepeer.org/docs)
 - 🔭 [The 10-Minute Primer](https://livepeer.org/primer/)
 - ✍ [The Livepeer Blog](https://medium.com/livepeer-blog)
-- 💬 [The Livepeer Chat](https://discord.gg/uaPhtyrWsF)
+- 💬 [The Livepeer Chat](https://discord.gg/livepeer)
 - ❓ [The Livepeer Forum](https://forum.livepeer.org/)
