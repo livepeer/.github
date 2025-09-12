@@ -19,6 +19,6 @@ at these other resources:
 - 🌐 [The Livepeer Website](https://livepeer.org)
 - 📖 [The Livepeer Docs](https://livepeer.org/docs)
 - 🔭 [The 10-Minute Primer](https://livepeer.org/primer/)
-- ✍ [The Livepeer Blog](https://medium.com/livepeer-blog)
+- ✍ [The Livepeer Blog](https://blog.livepeer.org/)
 - 💬 [The Livepeer Chat](https://discord.gg/livepeer)
 - ❓ [The Livepeer Forum](https://forum.livepeer.org/)
